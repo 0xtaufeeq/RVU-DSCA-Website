@@ -2,6 +2,8 @@
   "index": "Introduction",
   "familiarisation-with-resistors": "Familiarisation With Resistors",
   "familiarisation-with-capacitors": "Familiarisation With Capacitors",
+  "familiarisation-with-inductors": "Familiarisation With Inductors",
+  "ohms-law": "Ohm's Law",
   "about": {
     "title": "About",
     "type": "page"
