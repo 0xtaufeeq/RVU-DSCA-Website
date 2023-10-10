@@ -1,0 +1,31 @@
+{
+  "name": "rvu-dsca",
+  "version": "0.0.1",
+  "description": "RV University - Digital Systems and Computer Architecture",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaufeeqRiyaz/RVU-DSCA-Website.git"
+  },
+  "author": "Taufeeq Riyaz <taufeeqr.btech23@rvu.edu.in>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaufeeqRiyaz/RVU-DSCA-Website/issues"
+  },
+  "homepage": "https://github.com/TaufeeqRiyaz/RVU-DSCA-Website#readme",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nextra": "latest",
+    "nextra-theme-docs": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.10",
+    "typescript": "^4.9.3"
+  }
+}

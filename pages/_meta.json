@@ -1,0 +1,14 @@
+{
+  "index": "Introduction",
+  "familiarisation-with-resistors": "Familiarisation With Resistors",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "mailto:taufeeqr.btech23@rvu.edu.in",
+    "newWindow": true
+  }
+}
