@@ -22,6 +22,9 @@ const config: DocsThemeConfig = {
       </svg>
     )
   },
+  sidebar: {
+    defaultMenuCollapseLevel: 1,
+  },
   docsRepositoryBase: 'https://github.com/TaufeeqRiyaz/RVU-DSCA-Website',
   footer: {
     text: (
