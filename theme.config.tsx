@@ -1,7 +1,9 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
+import { NextSeo } from 'next-seo';
 import Image from 'next/image'
 import logo from './logo.svg';
+
 
 const config: DocsThemeConfig = {
   logo: <Image src={logo} alt="RV University Logo" width={100}/>,
@@ -38,4 +40,4 @@ const config: DocsThemeConfig = {
   },
 }
 
-export default config
+export default config;
